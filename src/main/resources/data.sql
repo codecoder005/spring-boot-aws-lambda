@@ -1,0 +1,1 @@
+insert into dummy(id, name) values(1, 'one');

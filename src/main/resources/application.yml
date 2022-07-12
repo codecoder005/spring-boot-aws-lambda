@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: hello-world-repo
+  profiles:
+    active: dev, h2, strict-logging

@@ -1,0 +1,1 @@
+create table dummy(id int, name varchar(10), primary key(id));
